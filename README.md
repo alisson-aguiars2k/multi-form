@@ -4,9 +4,12 @@
 
 ## Nesse aplicação podemos cadastrar desenvolvedores em busca de oportunidades na área da programação. 😃 
 
-![](./images/mult-form.jpg)
-
 ### [Person Finances](https://react-js-person-finances.netlify.app/) 🔗
+
+![](./images/mult-form.jpg)
+![](./images/mult-form2.jpg)
+![](./images/mult-form3.jpg)
+![](./images/mult-form4.jpg)
 
 ## Tecnologias que utilizei para o projeto ;  
 <div style="display: inline_block"><br>
@@ -26,6 +29,8 @@
 ## O código foi desenvolvido usando os conceitos ; 
 - Hooks ; useState, useEffect, useReducer e useContext ;
 - As rotas foram criadas com React Router Dom 6.
+- Resposivo
+- Clean Code
 ## A estilização ; 
 - Styled Components;  
 ## 🎲 Rodando o Back End (servidor)
